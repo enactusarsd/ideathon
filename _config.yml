@@ -10,10 +10,10 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "Ideathon | Enactus ARSD"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/ideathon"
+baseurl: "/ideathon/"
 url: "https://enactusarsd.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
+organizerName: "Enactus ARSD"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
@@ -56,16 +56,15 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroTitle: "Enactus ARSD <typeout>"
 eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "Ideathon"'
+typeoutFallback: "Ideathon"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://bit.ly/dfua-c4p", text: "REGISTER TODAY"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About the Ideathon"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
